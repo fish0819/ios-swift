@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Fish is 878787
 879487
 ¯u·ì³ÌÁo©ú
 879487 la
-=======
 Fish is smart
->>>>>>> 84ea1fff0130d61104b996d4f2b4d6be784c0d1f
